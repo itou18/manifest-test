@@ -1,0 +1,7 @@
+<?xml version="1.0.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin" fetch="https://github.com/itou18/" />
+  <default revision="main" remote="origin" />
+  <project path="hoge" name="hoge"/>
+  <project path="test_repo" name="test_repo"/>  
+</manifest>
