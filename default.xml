@@ -2,6 +2,5 @@
 <manifest>
   <remote  name="origin" fetch="https://github.com/itou18/" />
   <default revision="main" remote="origin" />
-  <project path="alpha" name="alpha"/>
-  <project path="beta" name="beta"/>  
+  <project path="repo1" name="repo1"/>
 </manifest>
